@@ -3,7 +3,7 @@ import { BlogList } from "./BlogList";
 import { Header } from "./Header";
 import { CardList } from "./CardList";
 import { useState } from "react";
-import { Form } from "./Form";
+// import { Form } from "./Form";
 // import { FormNir } from "./FormNir";
 import { Result } from "./Result";
 import { FaqList } from "./FaqList";
